@@ -1,0 +1,10 @@
+{
+  "web": {
+    "browser": "firefox",
+    "base_url": "http://localhost/mantisbt/"
+  },
+  "webadmin": {
+    "username": "administrator",
+    "password": "root"
+  }
+}

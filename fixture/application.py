@@ -4,7 +4,6 @@ from selenium.common.exceptions import NoAlertPresentException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-
 from fixture.session import SessionHelper
 from selenium.webdriver.support.ui import Select
 from utilities import project_utilities
